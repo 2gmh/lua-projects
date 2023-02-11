@@ -1,4 +1,4 @@
-local sumar = function(num1, num2, num3)
+function sumar(num1, num2, num3)
 	local resultado = num1 + num2 + num3
 	return resultado
 end
